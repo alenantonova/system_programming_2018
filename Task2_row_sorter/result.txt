@@ -1,0 +1,47 @@
+Результат сортировки строк, сравнением слева направо:
+But if thou live, remember'd not to be,
+Calls back the lovely April of her prime:
+Despite of wrinkles this thy golden time.
+Die single, and thine image dies with thee.
+Disdains the tillage of thy husbandry?
+For where is she so fair whose unear'd womb
+Look in thy glass, and tell the face thou viewest
+Now is the time that face should form another;
+Of his self-love, to stop posterity?
+Or who is he so fond will be the tomb
+So thou through windows of thine age shall see
+Thou art thy mother's glass, and she in thee
+Thou dost beguile the world, unbless some mother.
+Whose fresh repair if now thou not renewest,
+
+Результат сортировки строк, сравнением справа налево:
+Or who is he so fond will be the tomb
+For where is she so fair whose unear'd womb
+But if thou live, remember'd not to be,
+Die single, and thine image dies with thee.
+Thou art thy mother's glass, and she in thee
+So thou through windows of thine age shall see
+Calls back the lovely April of her prime:
+Despite of wrinkles this thy golden time.
+Thou dost beguile the world, unbless some mother.
+Now is the time that face should form another;
+Look in thy glass, and tell the face thou viewest
+Whose fresh repair if now thou not renewest,
+Disdains the tillage of thy husbandry?
+Of his self-love, to stop posterity?
+
+Оригинальный текст:
+Look in thy glass, and tell the face thou viewest
+Now is the time that face should form another;
+Whose fresh repair if now thou not renewest,
+Thou dost beguile the world, unbless some mother.
+For where is she so fair whose unear'd womb
+Disdains the tillage of thy husbandry?
+Or who is he so fond will be the tomb
+Of his self-love, to stop posterity?
+Thou art thy mother's glass, and she in thee
+Calls back the lovely April of her prime:
+So thou through windows of thine age shall see
+Despite of wrinkles this thy golden time.
+But if thou live, remember'd not to be,
+Die single, and thine image dies with thee.
